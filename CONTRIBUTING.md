@@ -1,34 +1,39 @@
-Contributing to Bitcoin Illustrated
-Thank you for considering contributing to Bitcoin Illustrated! Every contribution, whether it's a suggestion for a new illustration topic, design inspiration, or textual content for an illustration, is valuable.
+# Contributing to Bitcoin Illustrated
 
-How You Can Contribute
-1. Suggest a New Illustration Topic:
-If you'd like to see an illustration on a specific Bitcoin-related topic, please:
+Thank you for considering contributing to **Bitcoin Illustrated**! Every contribution, be it a new illustration topic suggestion, design inspiration, or textual content for an illustration, plays a pivotal role in enriching this repository.
 
-Open a new issue with the title "Illustration Topic: [Your Topic Name]".
-In the issue description, provide as much detail as possible about the topic you'd like illustrated.
-I'll review the suggestion, and it could be the next illustration added to the repository!
+## How You Can Contribute
 
-2. Contribute Design Ideas:
-If you have design inspirations or specific ideas:
+### 🖼️ Suggest a New Illustration Topic
 
-Provide a link to a Figma file or other design platforms where I can view your design inspiration.
-Ensure the design aligns with the style and quality of existing illustrations in the repo.
-Note: If you're looking for an example of the design style, DM me on twitter I'll send you a link to a Sample illustration on Figma.
+If you'd like an illustration on a specific Bitcoin topic:
 
-3. Provide Textual Content for an Illustration:
-If you're keen on contributing text or content that could be turned into an illustration:
+1. **Open an Issue**: Start with the title "Illustration Topic: [Your Topic Name]".
+2. **Provide Details**: In the issue description, delve into the topic you want illustrated. The more detailed, the better. Your idea might just be the next addition to the collection!
 
-Open an issue with the title "Content Idea: [Brief Description]".
-In the issue description, detail out your idea, ensuring it's concise and clear.
-I'll review and, if suitable, turn it into an illustration for the repository!
+### 🎨 Contribute Design Ideas
 
-Guidelines
-Maintain Quality: Any contribution should align with the quality and style of the existing project.
+Got design inspirations or specific visual concepts? 
 
-Provide Attribution: If using or adapting work from other sources, ensure you provide proper attribution and have the rights to use it.
+1. **Share Your Design**: Provide links to Figma or other design platforms showcasing your vision.
+2. **Ensure Consistency**: Align your design with the existing style and quality of illustrations here. If unsure about the style, DM me on [Twitter](https://twitter.com/BTCillustrated), and I'll share a sample Figma illustration.
 
-Adherence to License: All contributions should comply with the Creative Commons Attribution 4.0 International License.
+### 📝 Provide Textual Content for an Illustration
 
-Feedback and Collaboration
-Your insights and feedback drive the evolution of Bitcoin Illustrated. For collaboration, ideas, or issues, please open an issue or get in touch directly.
+Keen on chipping in with text or content ripe for illustration?
+
+1. **Open an Issue**: Title it "Content Idea: [Brief Description]".
+2. **Detail Your Vision**: Make your idea clear and concise in the issue description. If it fits, it could be transformed into a visual masterpiece for the repo!
+
+## 📜 Guidelines 
+
+- **Maintain Quality**: Ensure any contribution resonates with the quality and aesthetic of the existing project.
+  
+- **Provide Attribution**: When adapting or using content from elsewhere, always give due credit and ensure you hold the rights to use it.
+
+- **Adherence to License**: Respect and abide by the Creative Commons Attribution 4.0 International License when making contributions.
+
+## 🚀 Feedback and Collaboration
+
+Your insights and feedback are the lifeblood of **Bitcoin Illustrated**. For deeper collaboration, fresh ideas, or addressing issues, feel free to open an issue or [reach out directly](mailto:j.errakibi@gmail.com).
+
