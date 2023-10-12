@@ -16,3 +16,17 @@ Your insights can enrich this collection:
 ## Questions or Feedback?
 
 Every thought or feedback is precious! Feel free to open an issue for any queries or suggestions. Alternatively, connect directly via [Twitter](https://twitter.com/BTCIllustrated) or [email](mailto:j.errakibi@gmail.com).
+
+
+## Donation
+
+If you appreciate the work being done and would like to support the continuous improvement and creation of new illustrations,
+
+1. **Bitcoin Address**: `35ALRkdydBwd5BaPoE3yFgDNJSW4Mko5UL`
+2. **Lightning**: `globaltadpole21@walletofsatoshi.com`
+3. **Lightning QR Code**: 
+
+    <img src="https://github.com/jrakibi/BTCillustrated/assets/19940301/902e0ff3-954b-4736-8af2-59bd65ba1b59" width="200" />
+
+
+
